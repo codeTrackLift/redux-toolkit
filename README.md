@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Redux Tool-kit Tutorial
+
+> [Video](https://www.youtube.com/watch?v=yZqBVLcWSn8)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
